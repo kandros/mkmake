@@ -22,4 +22,8 @@ follow instructions
 `make run`
 `make dev`
 
+### running without global install
+
+use `npx mkmake`
+
 > running `make` will execute the `run` command by default (first in order)
