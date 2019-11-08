@@ -7,5 +7,9 @@
   "license": "MIT",
   "dependencies": {
     "enquirer": "^2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kandros/mkmake.git"
   }
 }
