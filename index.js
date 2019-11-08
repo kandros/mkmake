@@ -30,7 +30,7 @@ prompt
 
 function toFile(filename) {
   return function(answer) {
-    console.log(`creted ${filename}`)
+    console.log(`created ${filename}`)
     fs.writeFileSync(filename, answer.result, { encoding: 'utf-8' })
   }
 }
