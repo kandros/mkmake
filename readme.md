@@ -1,6 +1,6 @@
 # mkmake
 
-a simple took to create a Makefile in the current file
+A simple CLI to create a Makefile in the current directory
 
 ## how it works
 
