@@ -1,5 +1,5 @@
 {
-  "name": "makemake",
+  "name": "mkmake",
   "version": "0.0.1",
   "main": "index.js",
   "bin": "index.js",
